@@ -1,0 +1,67 @@
+.Weather {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+}
+
+.Weather__info {
+  text-align: left;
+  display: flex;
+}
+
+.Weather__icon {
+  width: 100px;
+  height: 100px;
+  animation-name: sun;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes sun {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+.Weather__list {
+  font-size: 0.85rem;
+  list-style: none;
+  margin-left: 0.75rem;
+}
+
+.list__temperature {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  transition: scale 0.3s, padding-left 0.3s;
+}
+
+.list__temperature:hover {
+  scale: 1.5;
+  padding-left: 0.75rem;
+}
+
+.list__temperature-symbol {
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.Weather__other-info {
+  text-align: right;
+}
+
+.other-info__city {
+  font-size: 1.15rem;
+  margin-bottom: 1rem;
+}
+
+.other-info__clouds {
+  font-weight: normal;
+  font-size: 0.9rem;
+}
+
+.Weather {
+  padding: 0 0 1.5rem 0;
+}

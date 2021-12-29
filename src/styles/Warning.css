@@ -1,0 +1,10 @@
+.Warning {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 3rem;
+  text-align: center;
+}
+
+.Warning > * {
+  padding: 0.15rem 0;
+}
