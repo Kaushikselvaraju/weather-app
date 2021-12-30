@@ -26,3 +26,9 @@
 <br>
 
 ## Find the app [here](https://weather-bot.netlify.app/).
+
+<br>
+
+### [**Kaushik Selvaraju**](https://github.com/Kaushikselvaraju)
+
+### [**Praveen Raj B**](https://github.com/praveenrajb08)
