@@ -5,7 +5,7 @@
 <div align="center">
 <br>
 
-## Netlify site status : [![Netlify Status](https://api.netlify.com/api/v1/badges/60302b2f-1de6-4747-bc69-a232f315359e/deploy-status)](https://app.netlify.com/sites/weather-bot/deploys)
+## Netlify Site Status : [![Netlify Status](https://api.netlify.com/api/v1/badges/60302b2f-1de6-4747-bc69-a232f315359e/deploy-status)](https://app.netlify.com/sites/weather-bot/deploys)
 
 > ### _Weather application built using ReactJs, OpenCage Api and OpenWeatherMap Api_
 
@@ -21,7 +21,7 @@
 | ---------------------------------------------------- | --------------------------------------- |
 | **[ReactJs](https://reactjs.org)**                   | Front End                               |
 | **[OpenCage](https://opencagedata.com/)**            | Geocoding API                           |
-| **[OpenWeatherMap](https://openweathermap.org/api)** | Weather                                 |
+| **[OpenWeatherMap](https://openweathermap.org/api)** | Weather API                             |
 
 <br>
 
