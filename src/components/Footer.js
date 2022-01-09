@@ -7,7 +7,9 @@ function Footer() {
   return (
     <footer className="Footer">
       <p>
-        Made &nbsp; by &nbsp;
+        Made with &nbsp;
+        <img src={HeartIcon} alt="love icon" />
+        &nbsp; by &nbsp;
         <a href="https://www.github.com/kaushikselvaraju" target="_blank" rel="noreferrer" >Kausik Selvaraju</a>
       </p>
     </footer>
