@@ -29,6 +29,5 @@
 
 <br>
 
-### [**Kaushik Selvaraju**](https://github.com/Kaushikselvaraju)
 
-### [**Praveen Raj B**](https://github.com/praveenrajb08)
+
