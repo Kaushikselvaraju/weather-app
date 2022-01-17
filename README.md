@@ -7,7 +7,7 @@
 
 ## Netlify Site Status : [![Netlify Status](https://api.netlify.com/api/v1/badges/60302b2f-1de6-4747-bc69-a232f315359e/deploy-status)](https://app.netlify.com/sites/weather-bot/deploys)
 
-> ### _Weather application built using ReactJs, OpenCage Api and OpenWeatherMap Api_
+### _Weather application built using ReactJs, OpenCage Api and OpenWeatherMap Api_
 
 </div>
 
