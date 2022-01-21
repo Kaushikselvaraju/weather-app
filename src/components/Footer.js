@@ -10,7 +10,7 @@ function Footer() {
         Made with &nbsp;
         <img src={HeartIcon} alt="love icon" />
         &nbsp; by &nbsp;
-        <a href="https://www.github.com/kaushikselvaraju" target="_blank" rel="noreferrer" >Kausik Selvaraju</a>
+        <a href="https://www.github.com/kaushikselvaraju" target="_blank" rel="noreferrer" >Kaushik Selvaraju</a>
       </p>
     </footer>
   );
